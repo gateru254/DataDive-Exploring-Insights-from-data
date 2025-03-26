@@ -1,4 +1,4 @@
-# Project 1: Exploring-Insights-from-data 
+# Project 1: Analyzing-Sales-Trends_using_SQL
 - This repository contains SQL projects focused on analyzing real-world datasets. Each project includes SQL queries, datasets, and insights derived from the analysis.
 - **Description:** Analyzes sales transactions and customer behavior per city,country and products too 
 - 📂**Files:**  
