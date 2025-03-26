@@ -1,1 +1,1 @@
-# https-github.com-gateru254-DataDive-Exploring-Insights-from-data
+DataDive-Exploring-Insights-from-data
