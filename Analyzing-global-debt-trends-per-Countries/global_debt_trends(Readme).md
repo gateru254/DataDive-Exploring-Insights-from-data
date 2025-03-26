@@ -1,10 +1,19 @@
 ## Analyzing-global-debt-trends-per-Countries (1970-2015) 💰
 This project aims to analyze the debt trends of developing countries from 1970 to 2015 using world bank 🏦 debt data.
 
+## Files 📁
+- `Debt-query.sql`: SQL queries for analysis.
+- `international_debt.csv`: Dataset of global debt statistics.
+  
+ ##  Steps to Analyze 🪜
+1. Import the dataset into your database.
+2. Run the queries provided in `Debt-query.sql`. 
+
 ## Overview 🫀
-- connected  to PostgreSql database using a string provided to analyze the dataset.
-- By utilizing SQL queries in Postgresql, the relationship between debt accumulation and economnic growth is well illustrated.The queries identifies which countries are most indebted.For instance the total debt accross all countries is **$3079735.08 millions M**.
-- The table consists of the following columns:
+1. Connect PostgreSql database using a string provided to analyze the dataset.
+2. By utilizing SQL queries in Postgresql, the relationship between debt accumulation and economnic growth is well illustrated.The queries identifies which countries are most indebted.For instance the total debt accross all countries is **$3079735.08 millions M**.
+   
+a). The international debt table consists of the following columns:
 
 | country_name | country_code | indicator_name | indicator_code | debt |
 |--------------|--------------|----------------|----------------|------|
